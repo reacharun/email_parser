@@ -1,0 +1,176 @@
+Delivered-To: mdrk@gmail.com
+Received: by 10.114.19.174 with SMTP id g14csp48573lde;
+        Thu, 9 Jan 2014 11:28:26 -0800 (PST)
+X-Received: by 10.236.226.65 with SMTP id a61mr7141060yhq.109.1389295705599;
+        Thu, 09 Jan 2014 11:28:25 -0800 (PST)
+Return-Path: <prvs=10865B8B10=jenny.banks@acquitygroup.com>
+Received: from ModusGate1.acquitygroup.com (mail.acquitygroup.com. [12.191.109.228])
+        by mx.google.com with ESMTPS id c7si6767998qan.73.2014.01.09.11.28.22
+        for <mdrk@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Thu, 09 Jan 2014 11:28:24 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of prvs=10865B8B10=jenny.banks@acquitygroup.com designates 12.191.109.228 as permitted sender) client-ip=12.191.109.228;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of prvs=10865B8B10=jenny.banks@acquitygroup.com designates 12.191.109.228 as permitted sender) smtp.mail=prvs=10865B8B10=jenny.banks@acquitygroup.com
+Received: from vsrv-Exchange02.acquitygroup.com (unverified [10.6.4.254]) by ModusGate1.acquitygroup.com
+  (Vircom SMTPRS 5.21.2043.16221) with ESMTP id <B0045634122@ModusGate1.acquitygroup.com>
+  (prot=TLS1-S cifer=26126-128 hash=SHA-160 exch=RSA-2048 verify=NOT) for <mdrk@gmail.com>;
+  Thu, 9 Jan 2014 13:26:32 -0600
+X-Modus-BlackList: 10.6.4.254=OK;jenny.banks@acquitygroup.com=OK
+X-Modus-RBL: 10.6.4.254=OK
+X-Modus-Trusted: 10.6.4.254=NO
+X-Modus-Audit: FALSE;0;0;0
+Received: from VSRV-EXCHANGE01.acquitygroup.com ([10.6.4.11]) by
+ vsrv-Exchange02.acquitygroup.com ([fe80::4470:a39f:556b:90ff%13]) with mapi
+ id 14.02.0318.001; Thu, 9 Jan 2014 13:26:33 -0600
+From: "Banks, Jenny" <jenny.banks@acquitygroup.com>
+To: "mdrk@gmail.com" <mdrk@gmail.com>
+Subject: Acquity Group
+Thread-Topic: Acquity Group
+Thread-Index: Ac8NcMToq1Y7paTHTNWX5wZyZ4RjYA==
+Date: Thu, 9 Jan 2014 19:26:32 +0000
+Message-ID: <F56584731D79CD4899431501A9248902C4FB682F@vsrv-exchange01>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.6.4.13]
+Content-Type: multipart/alternative;
+	boundary="_000_F56584731D79CD4899431501A9248902C4FB682Fvsrvexchange01_"
+MIME-Version: 1.0
+
+--_000_F56584731D79CD4899431501A9248902C4FB682Fvsrvexchange01_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Arun,
+
+Hope you are enjoying your New Year. I know we have connected via linkedin =
+and now that we are a part of Accenture Interactive I found that you applie=
+d for a position and Interaction Design position in LA.
+
+I wanted to find out if you are interested in relocating to Chicago or LA?
+
+
+Kind regards,
+
+Jenny Banks
+Senior Corporate Recruiter
+
+ACQUITY GROUP
+Part of Accenture Interactive
+V312-572-8733<tel:312-572-8733> |  M 773.490.9404<tel:773.490.9404>  |  F 3=
+12.427.2471<tel:312.427.2471>
+500 West Madison Street, Suite 2200, Chicago, IL  60661
+
+
+--_000_F56584731D79CD4899431501A9248902C4FB682Fvsrvexchange01_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Hi Arun,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hope you are enjoying your New Year. I know we have =
+connected via linkedin and now that we are a part of Accenture Interactive =
+I found that you applied for a position and Interaction Design position in =
+LA.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">I wanted to find out if you are interested in reloca=
+ting to Chicago or LA?<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">Kind regards,<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"color:black">Jenny Banks<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;color:#4C5B52">Senior Corporate Recruiter<=
+/span><span style=3D"color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;;color:#4C5B52">&nbsp;</span><span style=3D"color:black"><=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,&quot;sans-serif&quot;;color:#4C5B52">ACQUITY GROUP&nbsp;&nbsp=
+;
+</span></b><span style=3D"color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;color:#4C5B52">Part of Accenture Interacti=
+ve</span><span style=3D"color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;margin-bottom:4.0pt=
+"><b><span style=3D"font-size:9.0pt;font-family:&quot;Verdana&quot;,&quot;s=
+ans-serif&quot;;color:black">V</span></b><span style=3D"color:black"><a hre=
+f=3D"tel:312-572-8733" target=3D"_blank"><span style=3D"font-size:9.0pt;fon=
+t-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black">312-572-87=
+33</span></a></span><span style=3D"font-size:9.0pt;font-family:&quot;Verdan=
+a&quot;,&quot;sans-serif&quot;;color:black">
+ |&nbsp; <b>M</b> </span><span style=3D"color:black"><a href=3D"tel:773.490=
+.9404" target=3D"_blank"><span style=3D"font-size:9.0pt;font-family:&quot;V=
+erdana&quot;,&quot;sans-serif&quot;;color:black">773.490.9404</span></a></s=
+pan><span style=3D"font-size:9.0pt;font-family:&quot;Verdana&quot;,&quot;sa=
+ns-serif&quot;;color:black">&nbsp;
+ |&nbsp; <b>F</b> </span><span style=3D"color:black"><a href=3D"tel:312.427=
+.2471" target=3D"_blank"><span style=3D"font-size:9.0pt;font-family:&quot;V=
+erdana&quot;,&quot;sans-serif&quot;;color:black">312.427.2471</span></a></s=
+pan><span style=3D"font-size:9.0pt;font-family:&quot;Verdana&quot;,&quot;sa=
+ns-serif&quot;;color:black">&nbsp;
+</span><span style=3D"color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Ver=
+dana&quot;,&quot;sans-serif&quot;;color:#4C5B52">500 West Madison Street, S=
+uite 2200,&nbsp;Chicago, IL&nbsp; 60661</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
